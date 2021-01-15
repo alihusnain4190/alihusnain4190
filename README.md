@@ -19,7 +19,6 @@ I'm Ali Husnain.Recently I graduated from Northcoder bootcamp,now I am looking f
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/alihusn89821590" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alihusn89821590" height="30" width="40" /></a>
 <a href="https://twitter.com/alihusn89821590" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alihusn89821590" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ali-husnain-94a13a1b8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ali-husnain-94a13a1b8" height="30" width="40" /></a>
 <a href="/https://ali-husnain.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://ali-husnain.netlify.app/" height="30" width="40" /></a>
