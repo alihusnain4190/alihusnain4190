@@ -3,6 +3,8 @@ I'm Ali Husnain.Recently i graduated from Northcoder bootcamp.Now i am looking f
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alihusnain4190)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihusnain4190)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **alihusnain4190/alihusnain4190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
