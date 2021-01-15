@@ -1,6 +1,14 @@
 ### Hi there 👋
 I'm Ali Husnain.Recently i graduated from Northcoder bootcamp.Now i am looking for new Role in IT.
 
+- 🌱 I’m currently learning **React Hook, Sass,**
+
+- 👨‍💻 All of my projects are available at [https://github.com/alihusnain4190](https://github.com/alihusnain4190)
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **alihusnain4190@gmail.com**
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alihusnain4190)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihusnain4190)](https://github.com/anuraghazra/github-readme-stats)
