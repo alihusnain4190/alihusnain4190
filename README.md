@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ali Husnain.Recently i graduated from Northcoder bootcamp.Now i am looking for new Role in IT.
+I'm Ali Husnain.Recently I graduated from Northcoder bootcamp,now I am looking for new Role in IT.
 
 
 - 🌱 I’m currently learning **React Hook, Sass,**
