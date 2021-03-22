@@ -10,7 +10,9 @@ I'm Ali Husnain.Recently I graduated from Northcoder bootcamp,now I am looking f
 ## 📬 Get in touch
 
 - Web: [https://ali-husnain.netlify.app/][1]
+- 
 - LinkedIn: [https://www.linkedin.com/in/ali-husnain-94a13a1b8/][2]
+- 
 -Email Address : alihusnainch@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alihusnain4190)](https://github.com/anuraghazra/github-readme-stats)
